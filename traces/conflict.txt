@@ -1,0 +1,10 @@
+# Two addresses 64 bytes apart, alternating. They compete for the same set
+# in a small direct-mapped cache.
+0x00
+0x40
+0x00
+0x40
+0x00
+0x40
+0x00
+0x40

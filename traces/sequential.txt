@@ -1,0 +1,18 @@
+# Walk through 64 bytes with stride 8, then do it again.
+# Good spatial locality (neighbouring addresses share a block) and the data fits in the cache.
+00
+08
+10
+18
+20
+28
+30
+38
+00
+08
+10
+18
+20
+28
+30
+38
